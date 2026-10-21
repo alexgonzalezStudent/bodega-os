@@ -1,0 +1,16 @@
+# Dependencias de React
+frontend/node_modules/
+frontend/dist/
+
+# Entorno y dependencias de Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Base de datos comercial (CRÍTICO)
+backend/bodega.db
+backend/*.sqlite3
+
+# Archivos generados temporalmente
+*.pdf
+*.csv
